@@ -1,0 +1,751 @@
+{
+  "id": "aether-modules",
+  "title": "Aether Modules",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "manifest": "https://github.com/Kofi-L/aether-modules/releases/download/latest/module.json",
+  "download": "https://github.com/Kofi-L/aether-modules/releases/download/latest/aether-modules.zip",
+  "url": "https://github.com/Kofi-L/aether-modules",
+  "relationships": {
+    "requires": [
+            {
+        "id": "Rideable",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "WhisperBox",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "_chatcommands",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "about-face",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "advanced-drawing-tools",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "advanced-macros",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "aedifs-tactical-grid",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "aedifs-token-sounds",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "aether-compendium",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "aether-playlists",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "animated-spell-effects-cartoon",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "arms-reach",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "autoanimations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-cabal-dungeon",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-city-district-01",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-city-district-02-docks",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-city-district-03-temples",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-city-district-04-ruins-and-slums",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-city-district-05-affluent",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-landing-pages",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-maps",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-maps-premium",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-maps-premium-towns",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-nuts-and-bolts",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "betterroofs",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "breaktime",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "caeora-maps-tokens-assets",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "chibbin-grove-free-compendium",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "color-picker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "colorsettings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "combat-tracker-dock",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "compendium-folders",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "damage-log",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-droppables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "door-sounds",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "drag-ruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dungeon-draw",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "elevationruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "encounter-stats",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud-dnd5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud-pf2e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "find-the-culprit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forge-vtt",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-copy-environment",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundry-summons",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundry_community_tables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-show-notes",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fvtt-syrin-control",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "healthEstimate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "hide-sidebars",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "icon-picker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "illandril-token-tooltips",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "image-hover",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "jb2a_patreon",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "levels",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lordudice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "mad-cartographer-free-maps",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "michaelghelfi",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-pf2e-encounter-aftermath",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-player-settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-scene-navigation",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-tokenbar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "moonlight-maps-free",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multi-token-edit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multiface-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multilevel-tokens",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "multiple-document-selection",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pathmuncher",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "patrol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "perceptive",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2-flat-check",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-alignment-damage",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-animal-companions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-color-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-dailies",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-decks-harrow",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-dorako-ui",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-dorako-ux",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-dragruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-effect-description",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-extempore-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-f-is-for-flatfooted",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-giveth",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-jb2a-macros",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-modifiers-matter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-monster-maker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-npc-knowledges",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-perception",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-playtest-data",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-ranged-combat",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-see-simple-scale-statistics",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-spells-summary",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-thaum-vuln",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokenmagic",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-toolbelt",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "popout",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "quick-encounters",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "quickscale",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "roll-tracker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "routinglib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "settings-extender",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "shopping-experience",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "shuggaloafs-simple-npc-generator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sidebar-resizer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simbuls-athenaeum",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simple-dice-roller",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sinclairs-library-playtest",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smart-doors",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smarttarget",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "soundfxlibrary",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "splatter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "spotlight-omnisearch",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tabletop-rpg-music",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "theripper-premium-hub",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tidy-ui_game-settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tile-scroll",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tile-sort",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-pf2e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-attacher",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-auras",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-frames",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-z",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tokenmagic",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "torch",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "universal-animations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "user-latency",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "walledtemplates",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "warpgate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "xdy-pf2e-workbench",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "zsync",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
